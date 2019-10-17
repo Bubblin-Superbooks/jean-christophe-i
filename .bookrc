@@ -1,0 +1,22 @@
+{
+  "name": "Jean-Christophe I",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/jean-christophe-i/master/assets",
+  "book_id": 1191,
+  "book_url": "https://bubblin.io/book/jean-christophe-i-by-romain-rolland"
+}
